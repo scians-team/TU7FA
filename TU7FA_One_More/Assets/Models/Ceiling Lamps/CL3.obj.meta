@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: e1effba9f38e629459a8e37171388217
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bulb_glass
+    100002: bulb_glass01
+    100004: bulb_glass02
+    100006: bulb_glass03
+    100008: bulb_glass04
+    100010: bulb_glass05
+    100012: bulb_metal
+    100014: bulb_metal01
+    100016: bulb_metal02
+    100018: bulb_metal03
+    100020: bulb_metal04
+    100022: bulb_metal05
+    100024: ChamferCyl20
+    100026: Lmp_main_body
+    100028: //RootNode
+    400000: bulb_glass
+    400002: bulb_glass01
+    400004: bulb_glass02
+    400006: bulb_glass03
+    400008: bulb_glass04
+    400010: bulb_glass05
+    400012: bulb_metal
+    400014: bulb_metal01
+    400016: bulb_metal02
+    400018: bulb_metal03
+    400020: bulb_metal04
+    400022: bulb_metal05
+    400024: ChamferCyl20
+    400026: Lmp_main_body
+    400028: //RootNode
+    2100000: bulb_glassMat
+    2100002: bulb_glass01Mat
+    2100004: bulb_glass02Mat
+    2100006: bulb_glass03Mat
+    2100008: bulb_glass04Mat
+    2100010: bulb_glass05Mat
+    2100012: bulb_metalMat
+    2100014: bulb_metal01Mat
+    2100016: bulb_metal02Mat
+    2100018: bulb_metal03Mat
+    2100020: bulb_metal04Mat
+    2100022: bulb_metal05Mat
+    2100024: ChamferCyl20Mat
+    2100026: Lmp_main_bodyMat
+    2300000: bulb_glass
+    2300002: bulb_glass01
+    2300004: bulb_glass02
+    2300006: bulb_glass03
+    2300008: bulb_glass04
+    2300010: bulb_glass05
+    2300012: bulb_metal
+    2300014: bulb_metal01
+    2300016: bulb_metal02
+    2300018: bulb_metal03
+    2300020: bulb_metal04
+    2300022: bulb_metal05
+    2300024: ChamferCyl20
+    2300026: Lmp_main_body
+    3300000: bulb_glass
+    3300002: bulb_glass01
+    3300004: bulb_glass02
+    3300006: bulb_glass03
+    3300008: bulb_glass04
+    3300010: bulb_glass05
+    3300012: bulb_metal
+    3300014: bulb_metal01
+    3300016: bulb_metal02
+    3300018: bulb_metal03
+    3300020: bulb_metal04
+    3300022: bulb_metal05
+    3300024: ChamferCyl20
+    3300026: Lmp_main_body
+    4300000: bulb_glass
+    4300002: bulb_glass01
+    4300004: bulb_glass02
+    4300006: bulb_glass03
+    4300008: bulb_glass04
+    4300010: bulb_glass05
+    4300012: bulb_metal
+    4300014: bulb_metal01
+    4300016: bulb_metal02
+    4300018: bulb_metal03
+    4300020: bulb_metal04
+    4300022: bulb_metal05
+    4300024: ChamferCyl20
+    4300026: Lmp_main_body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: b568336bf5cd09245998f784ceaeacb5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: moonlightd_Circle028
+    100004: moonlightd_Cylinder00
+    100006: moonlightd_Cylinder01
+    100008: moonlightd_GeoSphere0
+    100010: moonlightd_GeoSphere7
+    100012: moonlightd_Line004
+    100014: moonlightd_Object036
+    100016: moonlightd_Shape022
+    100018: moonlightd_Sphere001
+    100020: moonlightd_Sphere003
+    400000: //RootNode
+    400002: moonlightd_Circle028
+    400004: moonlightd_Cylinder00
+    400006: moonlightd_Cylinder01
+    400008: moonlightd_GeoSphere0
+    400010: moonlightd_GeoSphere7
+    400012: moonlightd_Line004
+    400014: moonlightd_Object036
+    400016: moonlightd_Shape022
+    400018: moonlightd_Sphere001
+    400020: moonlightd_Sphere003
+    2100000: moonlightd_Circle028Mat
+    2100002: moonlightd_Cylinder00Mat
+    2100004: moonlightd_Cylinder01Mat
+    2100006: moonlightd_GeoSphere0Mat
+    2100008: moonlightd_GeoSphere7Mat
+    2100010: moonlightd_Line004Mat
+    2100012: moonlightd_Object036Mat
+    2100014: moonlightd_Shape022Mat
+    2100016: moonlightd_Sphere001Mat
+    2100018: moonlightd_Sphere003Mat
+    2300000: moonlightd_Circle028
+    2300002: moonlightd_Cylinder00
+    2300004: moonlightd_Cylinder01
+    2300006: moonlightd_GeoSphere0
+    2300008: moonlightd_GeoSphere7
+    2300010: moonlightd_Line004
+    2300012: moonlightd_Object036
+    2300014: moonlightd_Shape022
+    2300016: moonlightd_Sphere001
+    2300018: moonlightd_Sphere003
+    3300000: moonlightd_Circle028
+    3300002: moonlightd_Cylinder00
+    3300004: moonlightd_Cylinder01
+    3300006: moonlightd_GeoSphere0
+    3300008: moonlightd_GeoSphere7
+    3300010: moonlightd_Line004
+    3300012: moonlightd_Object036
+    3300014: moonlightd_Shape022
+    3300016: moonlightd_Sphere001
+    3300018: moonlightd_Sphere003
+    4300000: moonlightd_Circle028
+    4300002: moonlightd_Cylinder00
+    4300004: moonlightd_Cylinder01
+    4300006: moonlightd_GeoSphere0
+    4300008: moonlightd_GeoSphere7
+    4300010: moonlightd_Line004
+    4300012: moonlightd_Object036
+    4300014: moonlightd_Shape022
+    4300016: moonlightd_Sphere001
+    4300018: moonlightd_Sphere003
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

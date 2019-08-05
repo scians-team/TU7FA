@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 10fa7f49d2e0cc24b9e3bd14eedbcb49
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle01_Mesh
+    100002: Circle02_Mesh
+    100004: Donut01_Mesh
+    100006: Donut02_Mesh
+    100008: for_lamp_0_Mesh
+    100010: for_lamp_1_Mesh
+    100012: for_lamp_2_Mesh
+    100014: lamp_Mesh
+    100016: Line01_Mesh
+    100018: Line02_Mesh
+    100020: //RootNode
+    100022: Rectangle0_Mesh
+    100024: Rectangle1_Mesh
+    100026: Rectangle2_Mesh
+    100028: Rectangle3_Mesh
+    100030: Rectangle4_Mesh
+    100032: Rectangle5_Mesh
+    100034: Rectangle6_Mesh
+    100036: Rectangle7_Mesh
+    400000: Circle01_Mesh
+    400002: Circle02_Mesh
+    400004: Donut01_Mesh
+    400006: Donut02_Mesh
+    400008: for_lamp_0_Mesh
+    400010: for_lamp_1_Mesh
+    400012: for_lamp_2_Mesh
+    400014: lamp_Mesh
+    400016: Line01_Mesh
+    400018: Line02_Mesh
+    400020: //RootNode
+    400022: Rectangle0_Mesh
+    400024: Rectangle1_Mesh
+    400026: Rectangle2_Mesh
+    400028: Rectangle3_Mesh
+    400030: Rectangle4_Mesh
+    400032: Rectangle5_Mesh
+    400034: Rectangle6_Mesh
+    400036: Rectangle7_Mesh
+    2100000: Circle01_MeshMat
+    2100002: Circle02_MeshMat
+    2100004: Donut01_MeshMat
+    2100006: Donut02_MeshMat
+    2100008: for_lamp_0_MeshMat
+    2100010: for_lamp_1_MeshMat
+    2100012: for_lamp_2_MeshMat
+    2100014: lamp_MeshMat
+    2100016: Line01_MeshMat
+    2100018: Line02_MeshMat
+    2100020: Rectangle0_MeshMat
+    2100022: Rectangle1_MeshMat
+    2100024: Rectangle2_MeshMat
+    2100026: Rectangle3_MeshMat
+    2100028: Rectangle4_MeshMat
+    2100030: Rectangle5_MeshMat
+    2100032: Rectangle6_MeshMat
+    2100034: Rectangle7_MeshMat
+    2300000: Circle01_Mesh
+    2300002: Circle02_Mesh
+    2300004: Donut01_Mesh
+    2300006: Donut02_Mesh
+    2300008: for_lamp_0_Mesh
+    2300010: for_lamp_1_Mesh
+    2300012: for_lamp_2_Mesh
+    2300014: lamp_Mesh
+    2300016: Line01_Mesh
+    2300018: Line02_Mesh
+    2300020: Rectangle0_Mesh
+    2300022: Rectangle1_Mesh
+    2300024: Rectangle2_Mesh
+    2300026: Rectangle3_Mesh
+    2300028: Rectangle4_Mesh
+    2300030: Rectangle5_Mesh
+    2300032: Rectangle6_Mesh
+    2300034: Rectangle7_Mesh
+    3300000: Circle01_Mesh
+    3300002: Circle02_Mesh
+    3300004: Donut01_Mesh
+    3300006: Donut02_Mesh
+    3300008: for_lamp_0_Mesh
+    3300010: for_lamp_1_Mesh
+    3300012: for_lamp_2_Mesh
+    3300014: lamp_Mesh
+    3300016: Line01_Mesh
+    3300018: Line02_Mesh
+    3300020: Rectangle0_Mesh
+    3300022: Rectangle1_Mesh
+    3300024: Rectangle2_Mesh
+    3300026: Rectangle3_Mesh
+    3300028: Rectangle4_Mesh
+    3300030: Rectangle5_Mesh
+    3300032: Rectangle6_Mesh
+    3300034: Rectangle7_Mesh
+    4300000: Circle01_Mesh
+    4300002: Circle02_Mesh
+    4300004: Donut01_Mesh
+    4300006: Donut02_Mesh
+    4300008: for_lamp_0_Mesh
+    4300010: for_lamp_1_Mesh
+    4300012: for_lamp_2_Mesh
+    4300014: lamp_Mesh
+    4300016: Line01_Mesh
+    4300018: Line02_Mesh
+    4300020: Rectangle0_Mesh
+    4300022: Rectangle1_Mesh
+    4300024: Rectangle2_Mesh
+    4300026: Rectangle3_Mesh
+    4300028: Rectangle4_Mesh
+    4300030: Rectangle5_Mesh
+    4300032: Rectangle6_Mesh
+    4300034: Rectangle7_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
